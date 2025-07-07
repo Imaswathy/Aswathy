@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswathy R Nair</h1>
 <h3 align="center">BTECH Student in Computer Science and Engineering</h3>
 
-- 🌱 I’m currently learning **Python and HTML**
+- 🌱 I’m currently learning **Python,HTML ETC**
 
 - 📫 How to reach me **aswathyramesh415@gmail.com**
 
